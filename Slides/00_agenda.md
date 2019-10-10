@@ -31,7 +31,7 @@
 
 
 
-## Définition</br>Plus simplement
+## Définition</br>*plus simplement*
 
 Comment doit être conçu mon application ou mon système pour répondre aux spécifications et aux besoins
 
@@ -45,7 +45,7 @@ Comment doit être conçu mon application ou mon système pour répondre aux sp�
 
 
 
-## Aujourd"hui
+## Aujourd'hui
 
  - Faire face à l'évolution des besoins et des infrastructures
  - Anticiper les besoins d'ajouts de fonctionnalités
