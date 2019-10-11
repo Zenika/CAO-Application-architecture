@@ -8,19 +8,28 @@
 
 <!-- .slide: id="master-toc" class="toc" -->
 
-- **[Architecture logicielle](#/0)**
+- **[Introduction](#/0)**
 - [Application monolithe](#/1)
-- [Code et tableaux](#/2)
-- [Positionnement des images](#/3)
+- [Acrhitecture orientée services](#/2)
+- [Microservices](#/3)
 - [Animations](#/4)
 - [Syntaxe avancée](#/5)
 
+
+
+## Présentation perso
+
+ - Développeur logiciel - backend
+ - Reconversion professionnelle - 4 ans
+ - DSI Centrale La Poste - Zenika
+ - Programmation fonctionnelle - Impression 3D
 
 
 ## Logistique
 
 - Horaires : 9h-12h30 / 13h30-17h
 - Déjeuner & pauses : 1h & 2x20min
+- Repo Github pour dépot des livrables: https://github.com/Zenika/CAO-App-archi-Tutorial-course.git
 - Autres questions ?
 
 
@@ -33,7 +42,7 @@
 
 ## Définition</br>*plus simplement*
 
-Comment doit être conçu mon application ou mon système pour répondre aux spécifications et aux besoins
+Comment doit être conçu mon application ou mon système pour répondre aux spécifications et aux besoins des utilisateurs
 
 
 
@@ -50,6 +59,14 @@ Comment doit être conçu mon application ou mon système pour répondre aux sp�
  - Faire face à l'évolution des besoins et des infrastructures
  - Anticiper les besoins d'ajouts de fonctionnalités
  - Coller aux nouvelles méthodes de développement (itérations courtes)
+
+
+
+## Les outils
+
+ - Des schémas, encore des schémas
+ - Une bonne compréhension des différentes architectures et de leurs contraintes
+ - Bien comprendre les besoins
 
 
 
