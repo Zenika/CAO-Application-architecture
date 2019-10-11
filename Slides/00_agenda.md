@@ -8,12 +8,12 @@
 
 <!-- .slide: id="master-toc" class="toc" -->
 
-- **[Introduction](#/0)**
-- [Application monolithe](#/1)
-- [Acrhitecture orientée services](#/2)
-- [Microservices](#/3)
-- [Animations](#/4)
-- [Syntaxe avancée](#/5)
+ - **[Introduction](#/0)**
+ - [Application monolithe](#/1)
+ - [Acrhitecture orientée services](#/2)
+ - [Microservices](#/3)
+ - [Animations](#/4)
+ - [Syntaxe avancée](#/5)
 
 
 
