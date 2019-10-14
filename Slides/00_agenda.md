@@ -10,10 +10,9 @@
 
  - **[Introduction](#/0)**
  - [Application monolithe](#/1)
- - [Acrhitecture orientée services](#/2)
- - [Microservices](#/3)
- - [Animations](#/4)
- - [Syntaxe avancée](#/5)
+ - [Architecture n-tier](#/2)
+ - [Architecture orientée services](#/3)
+ - [Microservices](#/4)
 
 
 
@@ -29,6 +28,7 @@
 ## Présentation Zenika
 
 <!-- .element: style="display: block; float: left; margin: 30px 0; width: 60%" -->
+
  - ESN ~500 collaborateurs
  - 10 agences: Paris, Nantes, Lyon, Montréal, Singapour...
  - Triple compétence: Conseil, Réalisation, Formation
