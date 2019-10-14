@@ -25,6 +25,20 @@
  - Programmation fonctionnelle - Impression 3D
 
 
+
+## Présentation Zenika
+
+<!-- .element: style="display: block; float: left; margin: 30px 0; width: 60%" -->
+ - ESN ~500 collaborateurs
+ - 10 agences: Paris, Nantes, Lyon, Montréal, Singapour...
+ - Triple compétence: Conseil, Réalisation, Formation
+
+<figure style="display: block; float: left; margin: 30px 0; width: 40%">
+	<img src="ressources/logo-zenika.jpg" alt="Logo Zenika" style="margin: auto;"/>
+</figure>
+
+
+
 ## Logistique
 
 - Horaires : 9h-12h30 / 13h30-17h

@@ -21,6 +21,12 @@
 
  - Initialement, applications sans modularité ou possibilité d'évolution
 
+<figure style="margin-top: 5%; margin-bottom: 5%;">
+    <img src="ressources/logo-zenika.jpg" alt="Logo Zenika"/>
+    <figcaption>Monolith</figcaption>
+</figure>
+
+
 
 
 ## De nos jours
