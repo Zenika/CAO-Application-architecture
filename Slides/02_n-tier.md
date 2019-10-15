@@ -54,4 +54,12 @@ Cela implique de faire communiquer entre eux les éléments de l'application. Il
 
 
 
+## Comment ça marche
+
+Pour chaque élément de l'application, créer des routes pour permettre la communication. Il est important de bien définir avant des contrats d'interfaces. Un contrat d'interface est le format de données attendus par la route ainsi que les différentes réponses selon le resultat de la requète.
+
+Un contrat d'interface, comme son nom l'indique, se doit d'être respecter sous peine de bloquer l'application.
+
+
+
 <!-- .slide: class="page-questions" -->
