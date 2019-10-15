@@ -33,3 +33,25 @@ Consiste à concevoir une application en différentes parties indépendantes et 
 <figure style="margin-top: 5%; margin-bottom: 5%;">
     <img src="ressources/n-Tier-Architecture.jpg" alt="n-iter architecture schema" width="85%"/>
 </figure>
+
+
+
+## Détails
+
+Séparer les différents niveaux de l'application permet de decoupler les éléments entre eux. Cela ouvre la possibilité de connecter différentes interfaces utilisateurs sur différents support, par exemple. 
+
+
+
+## Comment?
+
+Cela implique de faire communiquer entre eux les éléments de l'application. Il existe pour cela différentes methodes: Sockets, UDP, webservices
+
+
+
+## Webservices
+
+ > "a Web service is a server running on a computer device, listening for requests at a particular port over a network, serving web documents (HTML, JSON, XML, Images), and creating web applications services, which serve in solving specific domain problems over the web (www, internet, HTTP)" Wikipedia
+
+
+
+<!-- .slide: class="page-questions" -->
