@@ -12,7 +12,7 @@
  - **[Application monolithe](#/1)**
  - [Architecture n-tier](#/2)
  - [Acrhitecture orientée services](#/3)
- - [Microservices](#/4)
+ - [Ressources vidéos](#/4)
 
 
 
